@@ -2,6 +2,12 @@
 
 Welcome to the repository that dives deep into the world of swimming data analysis! This is your gateway to gaining profound insights into your pool training. These Python scripts will help you turn raw numbers into meaningful insights.
 
+### Data Preview
+
+<p align="center">
+  <img src="https://github.com/mattbarreto/Swimming_data_analysis/blob/master/data_preview.gif?raw=true" alt="Data Preview">
+</p>
+
 ## Overview
 
 ### Modules
